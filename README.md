@@ -1,4 +1,4 @@
-# MSc Dissertation: A Comparison of Segmentation- and Classification-based Approaches for Blink Detection
+# A Comparison of Segmentation- and Classification-based Approaches for Blink Detection
 
 
 
@@ -79,8 +79,7 @@ Potential improvements and next steps, as outlined in the thesis, include:
 ## Author
 
 **Udiyaman Shukla**
--   University of Bristol, MSc in Data Science
+-   MSc in Data Science
 
 ## Acknowledgments
--   Supervisor: Dr. Gabriella Miles, University of Bristol.
 -   The dataset was provided via the Open Science Framework (OSF).
